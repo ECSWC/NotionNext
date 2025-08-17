@@ -114,6 +114,7 @@ color_2: '#1f1f1f'
   HEO_SOCIAL_CARD_TITLE_1: 'Join Forum',
   HEO_SOCIAL_CARD_TITLE_2: 'Discuss & Share',
   HEO_SOCIAL_CARD_TITLE_3: 'One-Click Join',
+  HEO_SOCIAL_CARD_TITLE_4: '🤗🍆🍌🥕🥖🦴',
   HEO_SOCIAL_CARD_URL: 'https://qianai.freeflarum.com',
 
   // 底部统计面板文案
