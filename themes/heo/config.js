@@ -24,7 +24,7 @@ const CONFIG = {
   HEO_HERO_TITLE_5: 'FAAK_Toy farum',
   HEO_HERO_TITLE_LINK: 'https://qianai.freeflarum.com',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: 'Just Look Around',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -32,19 +32,14 @@ const CONFIG = {
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HEO_HERO_RECOMMEND_POST_TAG: '推荐',
+  HEO_HERO_RECOMMEND_POST_TAG: 'Recommendations',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是FAAK_Toy',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🤗Hi！',
+    'we are FAAK_Toy',
   ],
 
   // 个人资料底部按钮
@@ -53,7 +48,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://qianai.freeflarum.com',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://qianai.freeflarum.com',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_TEXT3: 'Learn More',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -116,9 +111,9 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
+  HEO_SOCIAL_CARD_TITLE_1: 'Community Channel',
+  HEO_SOCIAL_CARD_TITLE_2: 'Join our community to discuss and share',
+  HEO_SOCIAL_CARD_TITLE_3: 'Click to join the community',
   HEO_SOCIAL_CARD_URL: 'https://qianai.freeflarum.com',
 
   // 底部统计面板文案
