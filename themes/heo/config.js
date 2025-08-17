@@ -38,7 +38,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '🤗Hi！',
+    '🤗Hi!!!',
     'we are FAAK_Toy',
   ],
 
@@ -113,8 +113,10 @@ color_2: '#1f1f1f'
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: 'Join Forum',
   HEO_SOCIAL_CARD_TITLE_2: 'Discuss & Share',
-  HEO_SOCIAL_CARD_TITLE_3: 'One-Click Join',
-  HEO_SOCIAL_CARD_TITLE_4: '🤗🍆🍌🥕🥖🦴',
+  HEO_SOCIAL_CARD_TITLE_3: [
+    'One-Click Join',
+    '🤗🍆🍌🥕🥖🦴',
+    ],
   HEO_SOCIAL_CARD_URL: 'https://qianai.freeflarum.com',
 
   // 底部统计面板文案
