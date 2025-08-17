@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'Welcome To FAAK_Toy🤗Your Personal BDSM Coach', url: 'https://qianai.freeflarum.com' },
+    { title: 'Welcome To FAAK_Toy🤗🍆🍌🥕🥖🦴', url: 'https://qianai.freeflarum.com' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: 'for the BDSM community',
   HEO_HERO_TITLE_3: 'FAAK_Toy',
   HEO_HERO_TITLE_4: 'NEW!',
-  HEO_HERO_TITLE_5: 'FAAK_Toy farum',
+  HEO_HERO_TITLE_5: 'FAAK_Toy forum',
   HEO_HERO_TITLE_LINK: 'https://qianai.freeflarum.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: 'Just Look Around',
