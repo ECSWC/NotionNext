@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'welcome to FAAK_Toy🤗', url: 'https://qianai.freeflarum.com' },
+    { title: 'Welcome To FAAK_Toy🤗Your Personal BDSM Coach', url: 'https://qianai.freeflarum.com' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -17,19 +17,19 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: 'A secret garden',
+  HEO_HERO_TITLE_2: 'for the BDSM community',
   HEO_HERO_TITLE_3: 'FAAK_Toy',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: 'NEW!',
   HEO_HERO_TITLE_5: 'FAAK_Toy farum',
   HEO_HERO_TITLE_LINK: 'https://qianai.freeflarum.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: 'Just Look Around',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: 'Must-Read', url: '/tag/Must-Read' },
+  HEO_HERO_CATEGORY_2: { title: 'Popular-Articles', url: '/tag/Popular-Articles' },
+  HEO_HERO_CATEGORY_3: { title: 'Practical-Tutorials', url: '/tag/Practical-Tutorials' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: 'Featured',
@@ -117,10 +117,10 @@ const CONFIG = {
   HEO_SOCIAL_CARD_URL: 'https://qianai.freeflarum.com',
 
   // 底部统计面板文案
-  HEO_POST_COUNT_TITLE: '文章数:',
-  HEO_SITE_TIME_TITLE: '建站天数:',
-  HEO_SITE_VISIT_TITLE: '访问量:',
-  HEO_SITE_VISITOR_TITLE: '访客数:',
+  HEO_POST_COUNT_TITLE: 'Posts:',
+  HEO_SITE_TIME_TITLE: 'Running for:',
+  HEO_SITE_VISIT_TITLE: 'Total Visits:',
+  HEO_SITE_VISITOR_TITLE: 'Total Users:',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
