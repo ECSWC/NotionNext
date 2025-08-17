@@ -111,9 +111,9 @@ color_2: '#1f1f1f'
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: 'Community Channel',
-  HEO_SOCIAL_CARD_TITLE_2: 'Join our community to discuss and share',
-  HEO_SOCIAL_CARD_TITLE_3: 'Click to join the community',
+  HEO_SOCIAL_CARD_TITLE_1: 'Join Forum',
+  HEO_SOCIAL_CARD_TITLE_2: 'Discuss & Share',
+  HEO_SOCIAL_CARD_TITLE_3: 'One-Click Join',
   HEO_SOCIAL_CARD_URL: 'https://qianai.freeflarum.com',
 
   // 底部统计面板文案
