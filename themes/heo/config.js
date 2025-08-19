@@ -55,7 +55,7 @@ const CONFIG = {
     {
 title_1: 'AfterEffect',
 img_1: '/images/heo/cityfun-logo.webp',
-color_1: '#989bf8',
+color_1: '#ffffff',
 title_2: 'Sketch',
 img_2: '/images/heo/faak-logo.webp',
 color_2: '#ffffff'
@@ -63,10 +63,10 @@ color_2: '#ffffff'
 {
 title_1: 'Docker',
 img_1: '/images/heo/frrk-logo.webp',
-color_1: '#57b6e6',
+color_1: '#ffffff',
 title_2: 'Photoshop',
 img_2: '/images/heo/geeba-logo.webp',
-color_2: '#4082c3'
+color_2: '#ffffff'
 },
 {
 title_1: 'FinalCutPro',
@@ -79,18 +79,18 @@ color_2: '#ffffff'
 {
 title_1: 'Swift',
 img_1: '/images/heo/qinz-logo.webp',
-color_1: '#eb6840',
+color_1: '#ffffff',
 title_2: 'Principle',
 img_2: '/images/heo/qkkq-logo.webp',
-color_2: '#8f55ba'
+color_2: '#ffffff'
 },
 {
 title_1: 'illustrator',
 img_1: '/images/heo/sxxy.webp',
-color_1: '#f29e39',
+color_1: '#ffffff',
 title_2: 'CSS3',
 img_2: '/images/heo/yocy-logo.webp',
-color_2: '#2c51db'
+color_2: '#ffffff'
 },
   ],
 
