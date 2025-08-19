@@ -80,16 +80,16 @@ function Banner(props) {
     <div
       id='banners'
       onClick={handleClickBanner}
-      className='hidden xl:flex xl:flex-col group h-full bg-white dark:bg-[#1e1e1e] rounded-xl border dark:border-gray-700 mb-3 relative overflow-hidden'>
+      className='hidden xl:flex xl:flex-col group h-full bg-white dark:bg-white rounded-xl border dark:border-gray-700 mb-3 relative overflow-hidden'>
       <div
         id='banner-title'
         className='z-10 flex flex-col absolute top-10 left-10'>
-        <div className='text-4xl font-bold mb-3 text-[#660000] dark:text-[#660000]'>
+        <div className='text-4xl font-bold mb-3 text-black dark:text-black'>
           {siteConfig('HEO_HERO_TITLE_1', null, CONFIG)}
           <br />
           {siteConfig('HEO_HERO_TITLE_2', null, CONFIG)}
         </div>
-        <div className='text-xs text-gray-600  text-[#660000] dark:text-[#660000]'>
+        <div className='text-xs text-gray-600  text-black dark:text-black'>
           {siteConfig('HEO_HERO_TITLE_3', null, CONFIG)}
         </div>
       </div>
@@ -102,7 +102,7 @@ function Banner(props) {
         id='banner-cover'
         style={{ backdropFilter: 'blur(8.88px)' }}
         className={
-          'z-20 rounded-xl overflow-hidden opacity-0 group-hover:opacity-100 duration-300 transition-all bg-black dark:bg-white text-[#660000] dark:text-[#660000] cursor-pointer absolute w-full h-full top-0 flex justify-start items-center'
+          'z-20 rounded-xl overflow-hidden opacity-0 group-hover:opacity-100 duration-300 transition-all bg-black dark:bg-black text-white dark:text-white cursor-pointer absolute w-full h-full top-0 flex justify-start items-center'
         }>
         <div className='ml-12 -translate-x-32 group-hover:translate-x-0 duration-300 transition-all ease-in'>
           <div className='text-7xl text-white font-extrabold'>{coverTitle}</div>
