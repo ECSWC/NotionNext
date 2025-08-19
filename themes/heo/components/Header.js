@@ -38,7 +38,7 @@ const Header = props => {
       // 导航栏设置 白色背景
       if (scrollS <= 1) {
         setFixedNav(false)
-        setBgWhite(true)
+        setBgWhite(false)
         setTextWhite(false)
 
         // 文章详情页特殊处理
@@ -141,7 +141,7 @@ const Header = props => {
       <nav
         id='nav'
         className={`z-20 h-16 top-0 w-full duration-300 transition-all
-            ${fixedNav ? 'fixed' : 'relative bg-transparent'} 
+            ${fixedNav ? 'fixed' : 'relative bg-black'} 
             ${textWhite ? 'text-white ' : 'text-white dark:text-white'}  
             ${navBgWhite ? 'bg-black dark:bg-[#18171d] shadow' : 'bg-transparent'}`}>
         <div className='flex h-full mx-auto justify-between items-center max-w-[86rem] px-6'>
