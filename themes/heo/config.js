@@ -24,7 +24,7 @@ const CONFIG = {
   HEO_HERO_TITLE_5: 'FAAK_Toy forum',
   HEO_HERO_TITLE_LINK: 'https://qianai.freeflarum.com',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: 'Just Look Around',
+  HEO_HERO_COVER_TITLE: 'Walk Around',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'Must-Read', url: '/tag/Must-Read' },
