@@ -38,7 +38,7 @@ const Header = props => {
       // 导航栏设置 白色背景
       if (scrollS <= 1) {
         setFixedNav(false)
-        setBgWhite(false)
+        setBgWhite(true)
         setTextWhite(false)
 
         // 文章详情页特殊处理
