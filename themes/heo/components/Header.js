@@ -19,7 +19,7 @@ import SlideOver from './SlideOver'
 const Header = props => {
   const [fixedNav, setFixedNav] = useState(false)
   const [textWhite, setTextWhite] = useState(false)
-  const [navBgWhite, setBgWhite] = useState(false)
+  const [navBgWhite, setBgWhite] = useState(true)
   const [activeIndex, setActiveIndex] = useState(0)
 
   const router = useRouter()
