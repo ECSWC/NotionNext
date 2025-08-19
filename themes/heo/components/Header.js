@@ -37,7 +37,7 @@ const Header = props => {
       const scrollS = window.scrollY
       // 导航栏设置 白色背景
       if (scrollS <= 1) {
-        setFixedNav(false)
+        setFixedNav(true)
         setBgWhite(true)
         setTextWhite(false)
 
