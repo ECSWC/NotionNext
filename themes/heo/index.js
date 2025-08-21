@@ -62,7 +62,6 @@ const LayoutBase = props => {
     <header>
       {/* 顶部导航 */}
       <Header {...props} />
-<meta name="google-site-verification" content="UpY2nD3kOaSV3is6Vc2dav5hJU3DwgtHslySsjQB_a8" />
       {/* 通知横幅 */}
       {router.route === '/' ? (
         <>
