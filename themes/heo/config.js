@@ -17,9 +17,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'A secret garden',
-  HEO_HERO_TITLE_2: 'for the BDSM community',
-  HEO_HERO_TITLE_3: 'FAAK_Toy',
+  HEO_HERO_TITLE_1: '17Q8!',
+  HEO_HERO_TITLE_2: '17TOP!',
+  HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: 'NEW!',
   HEO_HERO_TITLE_5: '17Q8 forum',
   HEO_HERO_TITLE_LINK: '',
