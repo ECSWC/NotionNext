@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-     { title: 'Welcome🤗', url: 'https://qianai.freeflarum.com' },
+     { title: '欢迎来到17Q8的小屋🤗', url: '' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: 'for the BDSM community',
   HEO_HERO_TITLE_3: 'FAAK_Toy',
   HEO_HERO_TITLE_4: 'NEW!',
-  HEO_HERO_TITLE_5: 'FAAK_Toy forum',
-  HEO_HERO_TITLE_LINK: 'https://qianai.freeflarum.com',
+  HEO_HERO_TITLE_5: '17Q8 forum',
+  HEO_HERO_TITLE_LINK: '',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: 'Walk Around',
 
@@ -39,58 +39,26 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '🤗Hi!!!',
-    'we are FAAK_Toy',
+    '欢迎!!!',
   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://qianai.freeflarum.com',
+  HEO_INFO_CARD_URL2: '',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://qianai.freeflarum.com',
+  HEO_INFO_CARD_URL3: '',
   HEO_INFO_CARD_TEXT3: 'Learn More',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-title_1: 'AfterEffect',
-img_1: '/images/heo/cityfun-logo.webp',
-color_1: '#ffffff',
-title_2: 'Sketch',
-img_2: '/images/heo/faak-logo.webp',
-color_2: '#ffffff'
-},
-{
-title_1: 'Docker',
-img_1: '/images/heo/frrk-logo.webp',
-color_1: '#ffffff',
-title_2: 'Photoshop',
-img_2: '/images/heo/geeba-logo.webp',
-color_2: '#ffffff'
-},
-{
-title_1: 'FinalCutPro',
-img_1: '/images/heo/nnsx-logo.webp',
-color_1: '#ffffff',
-title_2: 'Python',
-img_2: '/images/heo/oralsx-logo.webp',
-color_2: '#ffffff'
-},
-{
-title_1: 'Swift',
-img_1: '/images/heo/qinz-logo.webp',
-color_1: '#ffffff',
-title_2: 'Principle',
-img_2: '/images/heo/qkkq-logo.webp',
-color_2: '#ffffff'
-},
-{
-title_1: 'illustrator',
-img_1: '/images/heo/sxxy.webp',
-color_1: '#ffffff',
-title_2: 'CSS3',
-img_2: '/images/heo/yocy-logo.webp',
-color_2: '#ffffff'
+//title_1: 'AfterEffect',
+//img_1: '/images/heo/cityfun-logo.webp',
+//color_1: '#ffffff',
+//title_2: 'Sketch',
+//img_2: '/images/heo/faak-logo.webp',
+//color_2: '#ffffff'
 },
   ],
 
@@ -101,7 +69,7 @@ color_2: '#ffffff'
     'One-Click Join',
     '🤗🍆🍌🥕🥖🦴',
     ],
-  HEO_SOCIAL_CARD_URL: 'https://qianai.freeflarum.com',
+  HEO_SOCIAL_CARD_URL: '',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: 'Posts:',
